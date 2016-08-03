@@ -1,4 +1,3 @@
-layout_spectrum: 0.9474118470679969
 typography_spectrum: 0.7056136545725167
 color:
   brandStrength: 0.44829685520380735
@@ -11,5 +10,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+layout_spectrum: 0.9474118470679969
 name: Double Taper Inc.
 title: WHY??
+description: . . . because there's a better way
